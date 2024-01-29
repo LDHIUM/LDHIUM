@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lee DH</h1>
-<h3 align="center">LDHIUM = LDH(initials) + -IUM(suffix)</h3>
+<h3 align="center">LDHIUM = LDH(INITIAL) + -IUM(SUFFIX)</h3>
 
 <p align="left"></p>
 
