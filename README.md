@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lee DH</h1>
+<h1 align="center">Hello! 👋, I'm LDHIUM</h1>
 <h3 align="center">LDHIUM = LDH(INITIAL) + -IUM(SUFFIX)</h3>
 
 <p align="left"></p>
@@ -6,8 +6,8 @@
 <h3 align="center">🛠 Tech Stack 🛠</h3>
   
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch">
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
   <br>
