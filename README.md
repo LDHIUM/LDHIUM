@@ -20,5 +20,5 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/vscode-%230C55A5.svg?style=for-the-badge&logo=visualstudio&logoColor=white" alt="visualstudio">
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/jupyter-%20grey.svg?style=for-the-badge&logo=jupyter&logoColor=%white" alt="jupyter">
   
-  <img src = "https://github-readme-stats.vercel.app/api?username=LDHIUM&show_icons=true&theme=dark">
+  <img src = "https://github-readme-stats.vercel.app/api?username=LDHIUM&show_icons=true&theme=dark" width = "63%" height = "63%">
 </p>
