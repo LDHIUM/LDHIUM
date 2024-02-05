@@ -1,6 +1,5 @@
 <h1 align="center">🌐 Welcome to LDHIUM's Github 🌐 <br/>
-
-![LDHIUM](LDHIUM.png){: width="50%" height="50%"}</h1>
+<img src = "LDHIUM.png" width = "50%" height = "50%"></h1>
 <h2 align="center">LDHIUM = LDH(INITIAL) + -IUM(SUFFIX)</h2>
 <h3 align="center">⚙️ Tech Stack ⚙️</h3>
 <h3 align="center">
