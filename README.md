@@ -1,6 +1,5 @@
 <h1 align="center">🌐 Welcome to LDHIUM's Github 🌐 <br/>
-<img src = "LDHIUM.png" width = "50%" height = "50%"></h1>
-<h2 align="center">LDHIUM = LDH(INITIAL) + -IUM(SUFFIX)</h2>
+<img src = "LDHIUM.png" width = "60%" height = "60%"></h1>
 <h3 align="center">⚙️ Tech Stack ⚙️</h3>
 <h3 align="center">
   <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
