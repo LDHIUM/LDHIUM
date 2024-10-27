@@ -2,8 +2,6 @@
   🌐 Welcome to LDHIUM's Github 🌐 
   <br/>
   <br/>
-  
-  <img src = "LDHIUM.png" width = "63%" height = "63%"> </h2>
 <h2 align="center">
  ⚙️ Tech Stack ⚙️
  <br/>
